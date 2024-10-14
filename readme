@@ -2,3 +2,12 @@ Backend Project
 
 Eraser - Website to draw and construct the structure
   [Eraserlink](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)
+
+
+npm packages used :
+    npm i mongoose express dotenv
+
+db dhould not be connected directly
+DataBase should always be handled  in try or catch or promises (resolve, reject)
+
+and  async await too
